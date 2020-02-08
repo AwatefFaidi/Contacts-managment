@@ -1,11 +1,11 @@
-# Gestion_Contacts
-Chaque contact est defini par id, nom, presnom, date de naissance,email, phone, photo.
-Cette application permet de gérer des contacts:
-Chercher des contacts 
-Saisir et  ajouter des contacts.
-Editer et modiifer  des contacts.
-Supprimer des contacts.
+# Contacts management
+Each contact is defined by id, name, first name, date of birth, email, phone, photo.
+This application allows you to manage contacts:
+Search for contacts
+Enter and add contacts.
+Edit and modify contacts.
+Delete contacts.
 
- Partie backend: Spring boot, spring dataJpa, Api Restful.
- Partie frontend:Angular4
+ Backend part: Spring boot, spring dataJpa, Api Restful.
+ Frontend part: Angular4
 
